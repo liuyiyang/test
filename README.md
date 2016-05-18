@@ -3,4 +3,4 @@
 5556677
 229990
 yyuuu
-Creating a new branch is quick & simple
+Createing a new branch is quick And simple.
